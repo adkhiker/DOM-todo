@@ -1,3 +1,6 @@
+Greg Poirier
+
+
 * DOM TODO
 
   An unofficial afternoon project.
